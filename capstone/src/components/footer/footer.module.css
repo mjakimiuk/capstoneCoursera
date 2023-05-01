@@ -1,0 +1,112 @@
+.footer {
+    padding-left: 30px;
+    height: 480px;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    justify-content: center;
+    background-color: #000000;
+    justify-content: center;
+    /* margin-top: -50px; */
+    }
+    .frame131 {
+      width: 968px;
+      height: 464px;
+      display: flex;
+      overflow: hidden;
+      position: absolute;
+      align-items: center;
+      flex-shrink: 0;
+      border-color: transparent;
+      flex-direction: column;
+    }
+    .text1 {
+      color: rgb(255, 255, 255);
+      width: 166px;
+      height: auto;
+      font-size: 20px;
+      align-self: auto;
+      font-style: Bold;
+      text-align: center;
+      font-family: Karla;
+      font-weight: 700;
+      line-height: normal;
+      font-stretch: normal;
+      margin-right: 0;
+      margin-bottom: 22px;
+      text-decoration: none;
+    }
+    .frame151 {
+      display: flex;
+      padding: 33px 31px;
+      overflow: hidden;
+      /* position: relative; */
+      align-items: flex-start;
+      flex-shrink: 0;
+      border-color: transparent;
+    }
+    .frame1511 {
+      display: flex;
+      overflow: hidden;
+      /* position: relative; */
+      align-items: flex-start;
+      flex-shrink: 0;
+      border-color: transparent;
+      margin-right: 101px;
+    }
+    .text021 {
+      color: rgb(255, 255, 255);
+      width: 508px;
+      height: auto;
+      font-size: 16px;
+      align-self: auto;
+      font-style: Regular;
+      text-align: left;
+      font-family: Karla;
+      font-weight: 400;
+      line-height: normal;
+      font-stretch: normal;
+      margin-right: 0;
+      margin-bottom: 0;
+      text-decoration: none;
+    }
+
+    .socialMedia{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 50%;
+      margin-top: 20px;
+      text-decoration: none;
+      list-style-type: none;
+    }
+
+    a { color: inherit; }
+
+    .footerLogo {
+      position: absolute;
+      left: 50%;
+      top:20%;
+      width: 120px;
+      height: 200px;
+      margin-bottom: 20px;
+      filter: grayscale(100%) invert(1);
+    }
+
+    @media screen and (max-width: 768px)
+  {
+  .frame131{
+    flex-direction: column;
+    width: 370px;
+  }
+  .footer {
+    padding-left: 0px;
+  }.text021 {
+
+    width: 208px;
+  }
+  .footerLogo{
+    left: 65%;
+  }
+    }

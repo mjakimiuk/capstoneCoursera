@@ -1,0 +1,321 @@
+
+.frame15 {
+  width: 198px;
+  height: 431px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 22px;
+  flex-direction: column;
+  background-color: #EDEFEE;
+}
+.frame151 {
+  width: 165px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text {
+  color: rgb(0, 0, 0);
+  width: 166px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.rectangle4 {
+  width: 194px;
+  height: 194px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 18px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.text02 {
+  color: rgb(0, 0, 0);
+  width: 176px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 18px;
+  text-decoration: none;
+}
+.text04 {
+  color: rgb(0, 0, 0);
+  width: 272px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame16 {
+  width: 198px;
+  height: 431px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 22px;
+  flex-direction: column;
+}
+.frame152 {
+  width: 165px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 166px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.rectangle41 {
+  width: 194px;
+  height: 150px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 18px;
+  text-decoration: none;
+}
+.text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 272px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame17 {
+  width: 198px;
+  height: 431px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 22px;
+  flex-direction: column;
+}
+.frame153 {
+  width: 165px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 166px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.rectangle42 {
+  width: 194px;
+  height: 150px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 18px;
+  text-decoration: none;
+}
+.text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 272px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame18 {
+  width: 198px;
+  height: 431px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.frame154 {
+  width: 165px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text18 {
+  color: rgb(255, 255, 255);
+  width: 166px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.rectangle43 {
+  width: 194px;
+  height: 150px;
+  position: relative;
+  border-color: transparent;
+  margin-bottom: 18px;
+}
+.text20 {
+  color: rgb(255, 255, 255);
+  width: 176px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 18px;
+  text-decoration: none;
+}
+.text22 {
+  color: rgb(255, 255, 255);
+  width: 272px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+@media screen and (max-width: 768px)
+  {
+  .frame15{
+    margin-bottom: 16px;
+  }
+    }

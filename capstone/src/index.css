@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Frame {
+  position: relative;
+  width: 100%;
+  background: #FFFFFF;
+}
+
+html {
+  height: 100%;
+}
+
+button, input, optgroup, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 28.125rem;
+  padding: 3rem 2rem;
+}

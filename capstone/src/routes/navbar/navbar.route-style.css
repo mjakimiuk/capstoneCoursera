@@ -1,0 +1,22 @@
+.NavbarContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 24px 219px 8px;
+  gap: 20px;
+  position: absolute;
+  width: 1299px;
+  height: 96px;
+  left: 71px;
+  top: 0px;
+}
+
+.NavbarLogo {
+  position: absolute;
+  width: 92px;
+  height: 86px;
+  left: 219px;
+  top: 24px;
+  background: url(navbar.logo.png);
+  border-radius: 60px;
+}

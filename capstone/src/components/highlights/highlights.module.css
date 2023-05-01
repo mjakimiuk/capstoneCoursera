@@ -1,0 +1,22 @@
+.highlights {
+  display: flex;
+  position: static;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  margin-bottom: 30px;
+  }
+  .frame13 {
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+
+  @media screen and (max-width: 768px)
+  {
+  .frame13{
+    flex-direction: column;
+  }
+    }

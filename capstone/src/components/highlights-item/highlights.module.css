@@ -1,0 +1,192 @@
+.foodContainer {
+    width: 278px;
+    height: 431px;
+    display: flex;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 10px;
+    flex-direction: column;
+    background-color: #EDEFEE;
+  }
+
+  .foodImage {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    position: relative;
+    border-color: transparent;
+    margin-bottom: 17px;
+  }
+  .foodTagContainer {
+    width: 262px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 17px;
+  }
+  .dishName {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 24px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dishPrice {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dishDescription {
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: 170px;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 17px;
+    text-decoration: none;
+  }
+  .dishButton {
+    color: rgba(0, 0, 0, 1);
+    width: 260px;
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    padding: 6px;
+    /* border: 1px solid #000000; */
+    background-color: #F4CE14;
+    border-radius: 4px;
+  }
+  .frame153 {
+    width: 304px;
+    height: 431px;
+    display: flex;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .rectangle42 {
+    width: 194px;
+    height: 150px;
+    position: relative;
+    border-color: transparent;
+    margin-bottom: 17px;
+  }
+  .frame154 {
+    width: 262px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 17px;
+  }
+  .text16 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 24px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text18 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text20 {
+    color: rgba(0, 0, 0, 1);
+    width: 191px;
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 17px;
+    text-decoration: none;
+  }
+  .text22 {
+    color: rgba(0, 0, 0, 1);
+    width: 191px;
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Karla;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+
